@@ -1,0 +1,91 @@
+body{
+    background-color: rgba(194, 197, 199, 0.973);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-style: oblique;
+}
+h1{
+    color: red;
+    font-size: 70px;
+    text-align: center;
+    text-shadow: 0em 0em .2em violet;
+}
+hr{
+    width: 40%;
+    text-align: center;
+    color: red;
+}
+h2{
+    color: red;
+    font-size: 55px;
+    text-align: left;
+}
+h3{
+    color: red;
+    font-size: 50px;
+    text-align: left;
+}
+h4{
+    color: red;
+    font-size: 45px;
+    text-align: left;
+}
+h5{
+    color: red;
+    font-size: 30px;
+}
+#margen1{
+    margin-left: 1em;
+}
+#margen2{
+    margin-left: 6em;
+}
+#margen3{
+    margin-left: 11em;
+}
+.CambioDeFondo{
+    background-color: rgb(223,196,223);
+}
+p{
+    color: indigo;
+    font-size: 22px;
+    padding: 0em .5em;
+}
+#img1{
+    width: 35%;
+    height: 300px;
+    float: left;
+    margin: .2em .7em;
+}
+#img2{
+    width: 30%;
+    height: 300px;
+    float: left;
+    margin: .2em .7em;
+}
+#img3{
+    width: 30%;
+    height: 300px;
+    float: right;
+    margin: .2em .7em;
+}
+#img4{
+    width: 35%;
+    height: 300px;
+    float: right;
+    margin: .2em .7em;
+}
+#enlaces{
+    font-size: 22px;
+    box-shadow: 15px 15px 15px red;
+    width: 60%;
+    margin: auto;
+    padding: 1em;
+}
+span{
+    color: red;
+}
+a:hover{
+    background-color: white;
+    color: red;
+}
